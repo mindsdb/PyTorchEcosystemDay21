@@ -2,7 +2,7 @@ Last updated: 2021.04.01
 Just a small note, occasionally there are HTML tags in the dataset.
 This was NOT indicated anywhere in the documentation of the work
 and is not present in every comment. I'm checking to see what happens
-when you omit some of these strings.
+when you omit some of these strings. (Side note this is a very small fraction of the text and actually doesn't change the performance at all)
 
 2021.02.09
 
