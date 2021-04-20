@@ -1,0 +1,5 @@
+Last updated: 2021.02.09
+Tripadvisor hotel reviews dataset
+
+from: https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
+
